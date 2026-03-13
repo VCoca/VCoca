@@ -1,16 +1,27 @@
-## Hi there 👋
+# Veljko Cocojević
 
-<!--
-**VCoca/VCoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the University of Niš.
 
-Here are some ideas to get you started:
+Interested in:
+- Systems programming
+- Operating systems
+- Concurrency
+- Backend systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- GitHub Commit Statistics Server
+- Encrypted File Transfer Application
+- Multithreaded File Search Tool (in progress)
+
+## Team Projects
+
+- Atoll game with AI
+- UML Collaboration Tool  
+  https://github.com/skillchair/GalaxyUML
+
+## Technologies
+
+C, C++, C#, Python  
+Linux, Git, REST APIs  
+FreeRTOS, Arduino
