@@ -10,8 +10,8 @@ Interested in:
 
 ## Projects
 
-- GitHub Commit Statistics Server
 - Encrypted File Transfer Application
+- GitHub Commit Statistics Server
 
 ## Team Projects
 
