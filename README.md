@@ -11,7 +11,7 @@ Interested in:
 ## Projects
 
 - Encrypted File Transfer Application
-- GitHub Commit Statistics Server
+- Api Concurrency Experiments
 
 ## Team Projects
 
