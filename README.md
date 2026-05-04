@@ -12,7 +12,6 @@ Interested in:
 
 - GitHub Commit Statistics Server
 - Encrypted File Transfer Application
-- Multithreaded File Search Tool (in progress)
 
 ## Team Projects
 
