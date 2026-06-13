@@ -31,4 +31,7 @@ FreeRTOS, Arduino
   <a href="https://www.credly.com/badges/8b018e14-c292-49fe-8f78-41890f07b6dc/public_url">
     <img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="120"/>
   </a>
+  <a href="https://www.credly.com/badges/013fd146-8587-45be-8edc-e3e16ba774f7/public_url">
+    <img src="https://images.credly.com/images/e8fe3d67-2967-43d0-bc4a-7a268a37f47b/image.png" width="120"/>
+  </a>
 </p>
